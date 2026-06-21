@@ -1,0 +1,16 @@
+# Visual Studio Kalıntıları
+.vs/
+x64/
+Debug/
+Release/
+*.obj
+*.exe
+*.pdb
+*.tlog
+*.idb
+
+# Büyük Veri ve Çıktı Klasörleri
+RawData/
+Processed/
+Storage/
+Results/
